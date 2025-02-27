@@ -2,9 +2,9 @@
 🚀 Java & Python Backend Developer | SQL & DBMS Expert | Open to Remote Work  
 
 💼 **Previously worked at:**  
-- 🏢 **TCS Chennai** – 1.5 years (Backend Developer)  
-- 🏢 **Solartis Technology, Madurai** – 2 years (Software Developer)  
-- 🏢 **Success4 Technology, Bangalore (Remote)** – 4 months (Contract Role)  
+- 🏢 **Tata Consultancy Services,Chennai** – 1.5 years (Backend Developer)  
+- 🏢 **Solartis Technology Private Ltd., Madurai** – 2 years (Software Developer)  
+- 🏢 **Success4 Private Ltd, Bangalore (Remote)** – 4 months (Contract Role)  
 
 🌱 I’m currently **upskilling** in **Spring Boot & Modern Backend Technologies**  
 🔭 I’m actively searching for a **remote Java backend job**  
