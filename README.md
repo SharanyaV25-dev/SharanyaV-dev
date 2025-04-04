@@ -32,4 +32,4 @@
 📧 vsharanya00@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/sharanya-v-30a94b1a0/)  
 
 
-![](https://count.getloli.com/get/@SharanyaV25-dev?theme=rule34)
+![Profile Views](https://github-readme-stats.vercel.app/api?username=SharanyaV25-dev&show_icons=true&theme=react&count_private=true)
