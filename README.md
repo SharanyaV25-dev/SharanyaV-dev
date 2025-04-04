@@ -30,3 +30,6 @@
 
 ## 📫 **How to reach me:**  
 📧 vsharanya00@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/sharanya-v-30a94b1a0/)  
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=SharanyaV25-dev&color=blue)
