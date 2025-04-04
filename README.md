@@ -33,3 +33,5 @@
 
 
 ![Profile Views](https://github-readme-stats.vercel.app/api?username=SharanyaV25-dev&show_icons=true&theme=react&count_private=true)
+![Visitor Count](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/SharanyaV25-dev)
+![Profile Views](https://komarev.com/ghpvc/?username=SharanyaV25-dev&style=for-the-badge&color=brightgreen)
