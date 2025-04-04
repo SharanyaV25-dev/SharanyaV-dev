@@ -32,4 +32,4 @@
 📧 vsharanya00@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/sharanya-v-30a94b1a0/)  
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=SharanyaV25-dev&color=blue)
+![](https://count.getloli.com/get/@SharanyaV25-dev?theme=rule34)
