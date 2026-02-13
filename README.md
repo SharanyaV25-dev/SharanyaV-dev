@@ -1,4 +1,4 @@
-👋 Hi, I'm Sharanya V
+👋 Hi, I'm Sharanya Velappasami
 
 🚀 Aspiring Data Engineer | Python • SQL • MySQL | Open to Remote Work (WFH)
 
