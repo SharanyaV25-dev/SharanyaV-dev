@@ -56,6 +56,8 @@ Backend Add-on
 
 🔹 Mini Data Engineering Pipeline (Python + MySQL)
 
+https://github.com/SharanyaV25-dev/de-mini-pipeline
+
   End-to-end pipeline implementing:
   
   ● Raw data ingestion
