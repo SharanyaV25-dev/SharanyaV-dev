@@ -4,10 +4,12 @@
 
 I’m a software engineer transitioning into Data Engineering, building real-world data pipelines using Python and SQL.
 My backend development experience helps me design reliable, production-style data workflows and understand end-to-end systems.
-💼 Previous Experience (Backend / Software Development)
 
+💼 Previous Experience (Backend / Software Development)
 🏢 Tata Consultancy Services, Chennai – Backend Developer (1.5 years)
-🏢 Solartis Technology Pvt Ltd, Madurai – Software Developer (2 years)
+
+🏢 Solartis Technology Pvt Ltd, Madurai – Software Developer (2 years
+
 🏢 Success4 Pvt Ltd, Bangalore (Remote) – Contract Role (4 months)
 
 Strong foundation in backend systems, databases, and production engineering practices — now applying this to Data Engineering pipelines.
@@ -15,10 +17,15 @@ Strong foundation in backend systems, databases, and production engineering prac
 🧠 Currently Upskilling in Data Engineering
 
 🔹 Python for Data Engineering (ETL, file handling, pipelines)
+
 🔹 SQL for Analytics & Transformations
+
 🔹 Building End-to-End Data Pipelines (CSV → MySQL → Cleaning → Aggregation → JSON Export)
+
 🔹 Data Quality Checks, Idempotent Pipelines, Error Handling
+
 🔹 Basics of Cloud & Scalable Data Systems (learning phase)
+
 
 🛠 Skills & Tech Stack
 Core DE Skills
